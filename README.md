@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ujjwal, a full time Computer Science student by the day and an Machine learning iOS, and Web developer by the night 🚀</div>  
+### <div align="center">I'm Ujjwal, a full time Computer Science student by the day and an Machine Learning, iOS, and Web developer by the night 🚀</div>  
   
 
 - 🔭 I’m currently working on [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
