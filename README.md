@@ -15,8 +15,6 @@
 - ❓ Ask me about anything related to iOS Development and Web Development  
   
 
-- ⚡ Fun fact: I use Windows 11 on a MacBook   
-
 - 🥷 Connect with me on Linkedin by [clicking here](https://www.linkedin.com/in/ujjwalsinghh/)  
   
 
