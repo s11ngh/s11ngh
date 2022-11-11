@@ -8,13 +8,6 @@
 
 - 🔭 I’m currently working on [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
   
-
-- 🌱 I’m currently learning TensorFlow and OpenCV  
-  
-
-- ❓ Ask me about anything related to iOS Development and Web Development  
-  
-
 - 🥷 Connect with me on Linkedin by [clicking here](https://www.linkedin.com/in/ujjwalsinghh/)  
   
 
