@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Ujjwal, a full time Computer Science student by the day and an Machine Learning, iOS, and Web developer by the night 🚀</div>  
+### <div align="center">I'm Ujjwal, a iOS and ML developer studying Computer Science at Knox College 🚀</div>  
   
 
-- 🔭 I’m currently working on [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
+- 🔭 Check out my HackHarvard 2022 Project: [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
   
 - 🥷 Connect with me on Linkedin by [clicking here](https://www.linkedin.com/in/ujjwalsinghh/)  
   
