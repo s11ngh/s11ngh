@@ -6,9 +6,9 @@
 ### <div align="center">I'm Ujjwal, a iOS and ML developer studying Computer Science at Knox College 🚀</div>  
   
 
-- 🔭 Check out my HackHarvard 2022 Project: [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
+- heck out my HackHarvard 2022 Project: [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
   
-- 🥷 Connect with me on Linkedin by [clicking here](https://www.linkedin.com/in/ujjwalsinghh/)  
+- Connect with me on Linkedin by [clicking here](https://www.linkedin.com/in/ujjwalsinghh/)  
   
 
 <br/>  
