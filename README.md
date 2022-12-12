@@ -8,7 +8,7 @@
 
 - Check out my recent Project: [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
   
-- Connect with me on [Linkedin](https://www.linkedin.com/in/ujjwalsinghh/) 
+- Connect with me on [Linkedin](https://www.linkedin.com/in/ujjwalsinghh/) and [Devpost](https://devpost.com/ujjwalwrk?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
   
 
 <br/>  
