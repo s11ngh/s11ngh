@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ujjwal, a iOS and ML developer studying Computer Science at Knox College </div>  
+### <div align="center">I'm Ujjwal, a Computer Science student </div>  
   
 
 - Check out my recent Project: [ULabel: A ML Music Record Label](https://github.com/Rishik-J/ULabel)  
